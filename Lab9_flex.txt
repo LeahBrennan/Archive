@@ -1,0 +1,43 @@
+
+Amazing Dinosaurs
+	 
+Home
+Videos
+Games
+Shop
+			
+Fixed Section
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel libero ac enim imperdiet commodo et ac nunc. 
+Suspendisse vitae neque pharetra est ornare tincidunt non eget arcu. Vivamus cursus faucibus elit ut laoreet. Nunc nec ante faucibus metus viverra egestas.
+
+  
+Flex Section 
+            	
+Lorem ipsum dolor sit amet
+Aenean viverra mi quis felis
+Quisque ut odio mi, blandit
+Fusce lacinia aliquet purus
+Aliquam vestibulum libero
+				
+
+Lorem ipsum dolor sit amet
+Aenean viverra mi quis felis
+Quisque ut odio mi, blandit
+Fusce lacinia aliquet purus
+Aliquam vestibulum libero            	
+			 							
+Flex Section
+   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec et tu ita posuisti, et verba vestra sunt.
+Quae in controversiam veniunt, de iis, si placet, disseramus. Nam de isto magna dissensio est.
+Ita nemo beato beatior. Duo Reges: constructio interrete.
+     
+Copyright &copy; 2009-2013
+
+Fantastic Dinosaurs Limited, Dublin, Ireland.
+
+
+
+
+
+
